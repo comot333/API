@@ -1,0 +1,14 @@
+{
+  "name": "gemini-chatbot",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1",
+    "@google/generative-ai": "^0.5.0"
+  }
+}
